@@ -1,0 +1,3 @@
+installer
+
+in C++, download the latest version of the game in the realeses tab, then create a folder in program files called Ultra Golf 2D and make a shortcut on the desktop, then do some control panel stuff to make the app appear in the app list, then add the app to the app list in the start menu, then show a message saying complete, and then close the installer and launches the game
